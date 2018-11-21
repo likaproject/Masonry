@@ -1,3 +1,3 @@
 # Masonry
-Masonry layout exumple<br>resize your page<br>
+Masonry layout example<br>resize the page<br>
 https://likaproject.github.io/Masonry/
