@@ -1,0 +1,57 @@
+body, html {
+    background-color: #f2f2f2;
+    height: 700px;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 60%;
+    margin: 0 auto;
+    background: url(../img/choice_1.jpg) no-repeat;
+ 
+}
+
+.grid {
+    width: 80%;
+    height: 100%;
+    padding: 20px;
+    overflow: hidden;
+}
+
+/* fluid 5 columns */
+
+.grid-item { 
+    width: 230px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    }
+.grid-item p {
+    font-size: 1.2em;
+    color: darkgreen;
+    margin: 0;
+    padding: 0 10px;
+}
+.nav {
+    width: 100%;
+    background-color: darkseagreen;
+    height: 100px;
+    padding-top: 30px;
+    position: relative;
+}
+
+.nav span:first-child {
+    color: white;
+    font-size: 2.5em;
+    font-weight: 600;
+    margin-left: 200px; 
+}
+.nav span:last-of-type {
+    color: darkgreen;
+    font-size: 2em;
+    font-style: italic;
+    margin-left: 260px;
+    margin-top: -20px;
+    position: absolute;
+}
+img {
+    width: 230px;
+}
